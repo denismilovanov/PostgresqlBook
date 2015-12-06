@@ -16,12 +16,12 @@ Structured English version of the document I use for the seminars.
     - Useful column types from extensions
         - hstore
         - intarray
-    - CREATE TABLE (LIKE ... INCLUDING ...), rotating tables
+    - [CREATE TABLE (LIKE ... INCLUDING ...)](/ddl/create_table_like.md)
     - Constraints
         - Foreign keys
         - Uniques
         - Checks
-    - DDL is transactional
+    - [DDL is transactional, rotating tables](/ddl/transactional.md)
 - Data manipulation, DML
     - psql console
     - DO statement
