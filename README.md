@@ -20,7 +20,7 @@ Structured English version of the document I use for the seminars.
     - Constraints
         - Foreign keys
         - Uniques
-        - Checks
+        - [Checks](/ddl/constraints/checks.md)
     - [DDL is transactional, rotating tables](/ddl/transactional.md)
 - Data manipulation, DML
     - psql console
