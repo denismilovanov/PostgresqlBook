@@ -4,9 +4,9 @@ Structured English version of the document I use for the seminars.
 
 - ACID
     - [Atomicity](/acid/atomicity.md)
-    - Consistency
-    - Isolation
-    - Durability
+    - [Consistency](/acid/consistency.md)
+    - [Isolation](/acid/isolation.md)
+    - [Durability](/acid/durability.md)
 - Data definition, DDL
     - Table 
         - Entities, logs
