@@ -1,1 +1,51 @@
 # PostgresqlBook
+
+Structured English version of the document I use for the seminars.
+
+- ACID
+    - [Atomicity](/acid/atomicity.md)
+    - Consistency
+    - Isolation
+    - Durability
+- Data definition, DDL
+    - Table 
+        - Entities, logs
+        - Mappings
+        - Dictionaries
+        - Statistics
+    - Useful column types from extensions
+        - hstore
+        - intarray
+    - CREATE TABLE (LIKE ... INCLUDING ...), rotating tables
+    - Constraints
+        - Foreign keys
+        - Uniques
+        - Checks
+    - DDL is transactional
+- Data manipulation, DML
+    - psql console
+    - DO statement
+    - Inserting random data for tests
+    - EXPLAIN statement
+    - btree indexes
+    - Indexing long varchars
+    - gin/gist indexes
+    - Functional indexes
+- Locks
+    - Table-level locks
+    - Row-level locks
+    - Adding a column in large table
+    - Deadlocks
+    - Advisory locks
+- Stored functions
+    - VOLATILE
+    - SECURITY DEFINER
+    - EXCEPTION, correct UPSERT in 9.4
+    - $LITERAL$ notation, EXECUTE
+    - Deploying
+- Extensions
+    - PostGIS
+    - FDW
+- Replication
+    - Hot standby
+    - Slony
