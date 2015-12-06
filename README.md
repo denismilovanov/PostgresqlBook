@@ -8,8 +8,8 @@ Structured English version of the document I use for the seminars.
     - [Isolation](/acid/isolation.md)
     - [Durability](/acid/durability.md)
 - Data definition, DDL
-    - Table 
-        - Entities, logs
+    - Table
+        - [Entities, logs](/ddl/tables/entities.md)
         - Mappings
         - Dictionaries
         - Statistics
