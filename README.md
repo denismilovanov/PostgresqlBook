@@ -9,6 +9,7 @@ Structured English version of the document I use for the seminars.
     - [Durability](/acid/durability.md)
 - Another important things
     - [psql console](/important/psql.md)
+    - I've said 'COMMIT', now what?(/important/commit.md)
 - Data definition, DDL
     - Table
         - [Entities, logs](/ddl/tables/entities.md)
@@ -25,7 +26,6 @@ Structured English version of the document I use for the seminars.
         - [Checks](/ddl/constraints/checks.md)
     - [DDL is transactional, rotating tables](/ddl/transactional.md)
 - Data manipulation, DML
-    - psql console
     - [DML statements can return data](/dml/returning.md)
     - DO statement
     - Inserting random data for tests
