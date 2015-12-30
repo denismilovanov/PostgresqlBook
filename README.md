@@ -8,7 +8,7 @@ Structured English version of the document I use for the seminars.
     - [Isolation](/acid/isolation.md)
     - [Durability](/acid/durability.md)
 - Another important things
-    - psql console(/important/psql.md)
+    - [psql console](/important/psql.md)
 - Data definition, DDL
     - Table
         - [Entities, logs](/ddl/tables/entities.md)
