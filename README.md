@@ -17,7 +17,7 @@ Structured English version of the document I use for the seminars.
         - Statistics
     - Useful column types from extensions
         - hstore
-        - intarray
+        - [intarray](/ddl/types/intarray.md)
     - [CREATE TABLE (LIKE ... INCLUDING ...)](/ddl/create_table_like.md)
     - Constraints
         - Foreign keys
