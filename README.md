@@ -9,7 +9,7 @@ Structured English version of the document I use for the seminars.
     - [Durability](/acid/durability.md)
 - Another important things
     - [psql console](/important/psql.md)
-    - I've said 'COMMIT', now what?(/important/commit.md)
+    - [I've said 'COMMIT', now what?](/important/commit.md)
 - Data definition, DDL
     - Table
         - [Entities, logs](/ddl/tables/entities.md)
