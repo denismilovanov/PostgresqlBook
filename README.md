@@ -24,6 +24,7 @@ Structured English version of the document I use for the seminars.
     - [DDL is transactional, rotating tables](/ddl/transactional.md)
 - Data manipulation, DML
     - psql console
+    - [DML statements can return data](/dml/returning.md)
     - DO statement
     - Inserting random data for tests
     - EXPLAIN statement
