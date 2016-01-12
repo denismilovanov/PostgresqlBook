@@ -15,6 +15,8 @@ Entities, logs
 - `integer`, `bigint`,
 - `varchar`, `text`,
 - `date`, `timestamp with time zone` (`timestamptz`),
+- `numeric(n,m)`, `float` (a.k.a. `double precision`),
+- `uuid` (after `CREATE EXTENSION "uuid-ossp";`),
 - `jsonb`.
 
 Arrays of these types also available.
