@@ -28,7 +28,7 @@ Structured English version of the document I use for the seminars.
 - Data manipulation, DML
     - [DML statements can return data](/dml/returning.md)
     - DO statement
-    - Inserting random data for tests
+    - [Inserting random data for tests](/dml/inserting_random_data.md)
     - EXPLAIN statement
     - btree indexes
     - Indexing long varchars
