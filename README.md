@@ -27,8 +27,8 @@ Structured English version of the document I use for the seminars.
     - [DDL is transactional, rotating tables](/ddl/transactional.md)
 - Data manipulation, DML
     - [DML statements can return data](/dml/returning.md)
-    - DO statement
     - [Inserting random data for tests](/dml/inserting_random_data.md)
+    - [DO statement](/dml/do.md)
     - EXPLAIN statement
     - btree indexes
     - Indexing long varchars
