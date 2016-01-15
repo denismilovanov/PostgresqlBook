@@ -10,6 +10,7 @@ Structured English version of the document I use for the seminars.
 - Another important things
     - [psql console](/important/psql.md)
     - [I've said 'COMMIT', now what?](/important/commit.md)
+    - [Keep your transactions short](/important/short.md)
     - [Settings](/important/settings.md)
 - Data definition, DDL
     - Table
