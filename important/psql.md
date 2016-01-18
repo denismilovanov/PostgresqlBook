@@ -24,7 +24,6 @@ Let's create a database:
         TEMPLATE = template0;
 
     CREATE USER my_db_user
-        LOGIN
         ENCRYPTED PASSWORD '1pQ_tZOh'
         ; --SUPERUSER;
 

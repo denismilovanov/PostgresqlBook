@@ -9,6 +9,7 @@ Structured English version of the document I use for the seminars.
     - [Durability](/acid/durability.md)
 - Another important things
     - [psql console](/important/psql.md)
+    - [Users, ownership, and privileges](/important/users_ownership_and_privileges.md)
     - [I've said 'COMMIT', now what?](/important/commit.md)
     - [Keep your transactions short](/important/short.md)
     - [Settings](/important/settings.md)
