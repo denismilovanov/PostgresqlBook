@@ -46,7 +46,7 @@ Structured English version of the document I use for the seminars.
     - VOLATILE
     - SECURITY DEFINER
     - EXCEPTION, correct UPSERT in 9.4
-    - $LITERAL$ notation, EXECUTE
+    - [$LITERAL$ notation, EXECUTE](/functions/execute.md)
     - Deploying
 - Extensions
     - PostGIS
