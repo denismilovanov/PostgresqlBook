@@ -24,7 +24,7 @@ Structured English version of the document I use for the seminars.
     - [CREATE TABLE (LIKE ... INCLUDING ...)](/ddl/create_table_like.md)
     - Constraints
         - Foreign keys
-        - Uniques
+        - [Uniques](/ddl/constraints/uniques.md)
         - [Checks](/ddl/constraints/checks.md)
     - [DDL is transactional, rotating tables](/ddl/transactional.md)
 - Data manipulation, DML
