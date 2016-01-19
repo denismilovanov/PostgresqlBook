@@ -32,8 +32,8 @@ Structured English version of the document I use for the seminars.
     - [DML statements can return data](/dml/returning.md)
     - [Inserting random data for tests](/dml/inserting_random_data.md)
     - [DO statement](/dml/do.md)
-    - EXPLAIN statement
     - btree indexes
+    - [EXPLAIN statement](/dml/explain.md)
     - Indexing long varchars
     - gin/gist indexes
     - Functional indexes
