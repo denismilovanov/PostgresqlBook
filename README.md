@@ -38,7 +38,7 @@ Structured English version of the document I use for the seminars.
     - gin/gist indexes
     - Functional indexes
 - Locks
-    - Table-level locks
+    - [Table-level locks](/locks/table_level.md)
     - Row-level locks
     - Adding a column in large table
     - Deadlocks
