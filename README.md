@@ -42,7 +42,7 @@ Structured English version of the document I use for the seminars.
     - Row-level locks
     - Adding a column in large table
     - Deadlocks
-    - Advisory locks
+    - [Advisory locks](/locks/advisory.md)
 - Stored functions
     - VOLATILE
     - SECURITY DEFINER
